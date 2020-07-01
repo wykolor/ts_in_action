@@ -1,2 +1,2 @@
 # ts_in_action
-ts practice
+typescript practice
