@@ -1,7 +1,8 @@
 // import './data-type';
 // import './enum';
 // import './interface';
-import './function';
+// import './function';
+import './class';
 
 
 let username: string = 'wykolor';
