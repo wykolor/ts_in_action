@@ -3,8 +3,8 @@
 // import './03-interface';
 // import './04-function';
 // import './05-class';
-import './06-class-interface';
+// import './06-class-interface';
+import "./07-generics";
 
-
-let username: string = 'wykolor';
-document.querySelectorAll('.app')[0].innerHTML = username;
+let username: string = "wykolor";
+document.querySelectorAll(".app")[0].innerHTML = username;
