@@ -4,7 +4,8 @@
 // import './04-function';
 // import './05-class';
 // import './06-class-interface';
-import "./07-generics";
+// import "./07-generics";
+import "./08-advanced";
 
 let username: string = "wykolor";
 document.querySelectorAll(".app")[0].innerHTML = username;
